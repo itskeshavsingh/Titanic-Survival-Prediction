@@ -7,7 +7,7 @@ Data Cleaning & Preprocessing: Handling missing values, encoding categorical var
 
 Feature Engineering: Creating meaningful features to improve model performance.
 
-Model Building: Implemented Logistic Regression, KNN, GaussianNB, Decision Tree Classifier, SVC
+Model Building: Implemented Logistic Regression, KNN, GaussianNB, Decision Tree Classifier, SVM
 
 Model Evaluation: Accuracy, Precision, Recall, F1-Score, and Confusion Matrix for performance assessment.
 
