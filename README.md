@@ -15,3 +15,5 @@ Visualization: Data insights and feature importance plots using Matplotlib & Sea
 
 Tech Stack:
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Jupyter Notebook
+
+Out of all the models, we will use SVM because of the corresponding accuracy, F1 score, precision, recall.
